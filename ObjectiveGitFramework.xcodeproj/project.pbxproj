@@ -1781,7 +1781,7 @@
 					"$(inherited)",
 					"-DGIT_SSH",
 				);
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WARNING_CFLAGS = (
 					"$(inherited)",
@@ -1819,7 +1819,7 @@
 					"$(inherited)",
 					"-DGIT_SSH",
 				);
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WARNING_CFLAGS = (
 					"$(inherited)",
@@ -1952,7 +1952,7 @@
 					"$(inherited)",
 					"-DGIT_SSH",
 				);
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WARNING_CFLAGS = (
 					"$(inherited)",
@@ -2172,7 +2172,7 @@
 					"$(inherited)",
 					"-DGIT_SSH",
 				);
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WARNING_CFLAGS = (
 					"$(inherited)",
